@@ -1,4 +1,4 @@
-package com.example.coolweather.com.example.application;
+package com.example.coolweather.application;
 
 import android.app.Application;
 import android.content.Context;
